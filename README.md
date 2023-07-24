@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMAN-349
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Whatsapp no.:9897423424,E-mail:smantyagi349@gmail.com
 
 <!---
