@@ -1,4 +1,4 @@
- About Me:
+# About Me:
 ⚡ Software Engineer at Mirketa<br>
 🔭 I’m currently working on Salesforce Full Stack Development<br>
 🌱 I’m currently learning Full Stack Development and DSA
